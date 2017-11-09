@@ -1,5 +1,5 @@
 ---
-title:  “Blogging on the University News Site”
+title:  “Blogging about Voice of UYA Podcasts”
 date:   2017-11-08 22:44:12
 categories: [updates]
 tags: [podcast] [academia]
