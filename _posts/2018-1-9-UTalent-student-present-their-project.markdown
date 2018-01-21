@@ -1,5 +1,5 @@
 ---
-title:  "U-Talent students present their project, done with a DIY-microscope"
+title:  "U-Talent project with a DIY-microscope"
 date:   2018-01-09 16:20:00
 categories: [updates]
 tags: [students, teaching, openscience]
