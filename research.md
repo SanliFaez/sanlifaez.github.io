@@ -3,17 +3,7 @@ layout: page
 title: Research Topics
 ---
 
-### Nanocapillary Electrophoretic Tracking
-We have invented a new tracking method based on elastic light scattering by using a nanofluidic step-index silica fibers. This method enables us to track the electrophoretic mobility of single nanoparticles at kilohertz rates or higher. From the mobility, we infer the charge of the probed objects and its interaction with the surrounding environment, which allows for monitoring the kinetics of chemical reactions on the fly.
-
-![Visual description of nanoCET](/images/nanoCET.png)
-
-In this new fiber, a sub-micrometer bore is enclosed concentric to the micrometer size high index core of the fiber, which guides light in a tight single optical mode irrespective of the filling inside the bore. The particles are inserted into the hole inside an aqueous solution and scatter the guided light out of the mode while diffusing freely. By index matching the cladding on a flat glass slide, it is possible to obtain an almost isotropic point image on a camera. This efficient spatial filtering allows for detection of very small particles based on their scattering, similar to bright visualization of dust particles that pass a freely propagating laser beam. Furthermore, the small diameter of the bore assures that particles do not diffuse out of the focal plan . These advantages have enabled us to track dielectric particles smaller than 20 nm and their electrophoretic mobility at a frame rate of several kilohertz. In 2015, we were granted a FOM-projectruimte to realize a proposal based on this technique: Capturing reaction kinetics on a diffusing nanoparticle.
-
-### Optical tracing of conduction electrons
-In 2014, we [proposed](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.205405) using organic molecule for optical detection and positioning of individual electrons. At cryogenic conditions the optical transition linewidth of these molecules in solid host matrices is narrower than 30 MHz. Using the fact that movement of a single electron in the micrometer surrounding of such a molecule would change its transition frequency by several times its linewidth. As a result, the electron can be optically traced by following the molecular lineshift.
-
-In 2015, NWO \(formerly FOM\) granted support for the experimental realization of this proposal. This research is currently being pursued in Leiden in the [Single-Molecule Optics](http://www.single-molecule.nl) group of Michel Orrit.
+A detailed overview of my current research activities is presented in the [nanoEPics](https://nanoepics.github.io) website and a shorter description on the [Nanophotonics section]() website at Utrecht University.
 
 ### Highlights of older projects
 
