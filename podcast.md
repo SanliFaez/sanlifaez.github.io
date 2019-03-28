@@ -14,9 +14,9 @@ When the open-science taskforce was formed at the Utrecht University to come up 
 * [R2OS-Ep3, Academics in Charge](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-ep-3-academics-in-charge)
 * [R2OS-Ep4, The Untapped Potential](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-ep-4-the-untapped-potential)
 * [R2OS-Ep5, With Cameron Neylon on Collective Action](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-ep-5-with-cameron-neylon-on-collective-action)
-* R2OS-Ep6, Academic Commons
+* [R2OS-Ep6, Commons Is the Name](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-ep-6-commons-is-the-name)
 
-We also record some short episodes, called news-chat, to spread the word on recent developments around open-science and related policy making.
+We also record some short episodes, called news-chats, to spread the word on recent developments around open-science and related policy making.
 
 You can find all the episodes and the full interviews on the [UYA soundcloud channel](https://soundcloud.com/utrechtyoungacademy/tracks) and all the shownotes on the portal of [Openscience Community Utrecht](https://openscience-utrecht.com/oscu-podcast/).
 
