@@ -3,7 +3,7 @@ layout: page
 title: Research Topics
 ---
 
-A detailed overview of my current research activities is presented in the [nanoEPics](https://nanoepics.github.io) website and a shorter description on the [Nanophotonics section]() website at Utrecht University.
+A detailed overview of my current research activities is presented in the [nanoEPics](https://nanoepics.github.io) website and a shorter description on the [Nanophotonics section](https://www.uu.nl/en/research/nanophotonics) website at Utrecht University.
 
 ### Highlights of older projects
 
