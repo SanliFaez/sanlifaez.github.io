@@ -2,9 +2,11 @@
 layout: page
 title: Podcast
 ---
-Since 2015, I spend short of two hours each day commuting to work and back (train + bike). Listening to podcasts and audiobook have since become part of my daily routine and my main source of knowledge about topics outside my field of research. I find podcasts large bandwidth means of scholarly communication. Since 2017, I have started producing some podcasts of my own. I am for always indebted to [Lex Bohlmeijer](https://twitter.com/lexbohlmeijer) for his outstanding [Goede Gespreken(nl)](https://soundcloud.com/de-correspondent) and kindly giving me some crucial advice and encouragement for the start.
+Since 2015, I spend short of two hours each day commuting to work and back (train + bike). Listening to podcasts and audiobook have since become part of my daily routine and my main source for learning about topics outside my field of research. I find podcasts large bandwidth means of scholarly communication. Since 2017, I have started producing some podcasts of my own. I am for always indebted to [Lex Bohlmeijer](https://twitter.com/lexbohlmeijer) for his outstanding [Goede Gespreken(nl)](https://soundcloud.com/de-correspondent) and kindly giving me some crucial advice and encouragement for the start.
 
-### Podcasts I produce
+### Podcasts I have produced
+#### The Universtiy Cooperative Workshop
+I was one of the organizers of the first [University Cooperative workshop](https://openscience-utrecht.com/workshop-the-university-cooperative/) on May 14th 2019, at Utrecht University. In this workshop participants were introduced to the issues, the concepts, and successful examples of governing common resources. They also investigated two cases related to the university and knowledge dissemination. [This podcast](https://soundcloud.com/utrechtyoungacademy/the-university-cooperative-workshop) reports on this workshop.
 
 #### The Road to Open Science
 When the open-science taskforce was formed at the Utrecht University to come up with a plan to promote open science practices, I was invited to represent the [Utrecht Young Academy](https://www.uu.nl/en/research/utrecht-young-academy). We soon mentioned some resistance for a wider embrace of such practices, including fear, misinformation, and persisting old culture. This motivated some of us at the Utrecht Young Academy to start the [Road to Open Science](https://twitter.com/R2OSpodcast) podcast together with our colleagues at the university library and the [Open Science Community Utrecht](http://www.openscience-utrecht.com). Our main goal was to communicate the basic principles of open science and engage in (sometimes difficult) discussions such as credit, culture, and vested interests.
@@ -31,26 +33,19 @@ You can find all the episodes and the full interviews on the [UYA soundcloud cha
 * [Voice of UYA - Elaine Mak](https://soundcloud.com/utrechtyoungacademy/voice-of-uya-elaine-mak) on New Public Management in the Judiciary System
 
 ### Podcasts I regularly follow
+_last updated: April 2020_
 
-* [Goede Gespreken(nl)](https://soundcloud.com/de-correspondent)
 * [Talking Politics](https://www.talkingpoliticspodcast.com/)
-* [Weekly Economics podcast](https://soundcloud.com/weeklyeconomicspodcast)
-* [Upstream](https://soundcloud.com/upstreampodcast)
+* [Goede Gespreken (nl)](https://soundcloud.com/de-correspondent)
+* [Today in Focus](https://www.theguardian.com/news/series/todayinfocus)
+* [Exponential View](https://www.exponentialview.co/)
 * [Radiolab](https://www.radiolab.org/)
-* [TED radio hour](https://www.npr.org/podcasts/510298/ted-radio-hour)
 * [Nature podcast](http://feeds.nature.com/nature/podcast/current)
 * [The Guardian's Science weekly](https://www.theguardian.com/science/series/science)
 * [Science Magazine](https://www.sciencemag.org/podcasts)
+* [Outrage and Optimism](https://podcasts.apple.com/gb/podcast/outrage-and-optimism/id1459416461)
+* [Upstream](https://www.upstreampodcast.org/)
+* [Drilled](https://www.drillednews.com/podcasts)
+* [NRC vandaag (nl)](https://www.nrc.nl/rubriek/podcast-vandaag/)
 
-* ...and some other random shows every now and then
 
-### Some other favorites
-* [Note to Self](https://www.wnyc.org/shows/notetoself/)
-* [Uncivil](http://uncivil.show/)
-* [FrameLab](https://feeds.soundcloud.com/users/soundcloud:users:372194030/sounds.rss)
-* [Freakonomics Radio](http://freakonomics.com/archive/)
-* [De Rudi en Freddie Show(nl)](https://soundcloud.com/rudifreddieshow/tracks)
-* [London School of Economics](https://soundcloud.com/lsepodcasts)
-* [Srsly Wrong](https://www.patreon.com/srslywrong)
-* [Team Human](https://www.patreon.com/teamhuman)
-* [Here in Holland](http://www.hereinholland.com/)

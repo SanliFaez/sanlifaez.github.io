@@ -5,6 +5,10 @@ title: Publications
 
 ### Peer-reviewed
 
+* Electric-Double-Layer-Modulation Microscopy, 
+Kevin Namink, Xuanhui Meng, Marc T. M. Koper, Philipp Kukura, Sanli Faez,
+_Phys. Rev. Applied_ __13__ 044065 \(2020\) [Abstract](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.044065) [preprint](https://arxiv.org/abs/1909.12801)
+
 * Interfacing superconducting qubits and single optical photons using molecules in waveguides,
 Sumanta Das, Vincent E. Elfving, Sanli Faez, Anders S. Sørensen, _Phys. Rev. Lett._ __118__ 140501 \(2017\) [Abstract](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.140501) [preprint](https://arxiv.org/abs/1607.06271)
 
@@ -71,6 +75,9 @@ _My researcherID on the Web of Science is [A-7622-2010](http://www.researcherid.
 Nederlands Tijdschrift voor Natuurkunde, maart 2010, p. 70. \(in Dutch\) [PDF](/docs/2010_AL_ntvn.pdf)
 
 ### Preprints
+* PyNTA: An Open Source Software Application for Live Particle Tracking,
+Aquiles Carattino, Allard Mosk, Sanli Faez, _Preprints_ 2019, 2019060251, (doi: 10.20944/preprints201906.0251.v1 [preprint](https://www.preprints.org/manuscript/201906.0251/v1), 
+
 * How to replace the oil droplet in Millikan's experiment with a single virus, Sanli Faez, [preprint](http://arxiv.org/abs/1601.01226)
 
 * High-cooperativity nanofiber laser,
