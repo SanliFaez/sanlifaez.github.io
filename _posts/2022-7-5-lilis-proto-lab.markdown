@@ -1,6 +1,6 @@
 ---
 title:  "Lili's proto lab opens to visitors at the Faculty Day"
-date:   2020-07-05 8:15:00
+date:   2022-07-05 8:15:00
 categories: [updates]
 tags: [open science, sustainability]
 ---
