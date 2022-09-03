@@ -9,6 +9,6 @@ tags: [open science, sustainability]
 
 At the Science Faculty Day 2022, we gave participants a sneak preview of the proto lab, and they made their own wooden flower pots.
 
-![Lili's Proto Lab at the Science Faculty Day](http://sanlifaez.github.io/protolab.jpg "Flower pot")
+![Lili's Proto Lab at the Science Faculty Day](https://sanlifaez.github.io/images/protolab.jpg "Flower pot")
 
 The funding for the proto lab is granted by the UU Science Faculty to a proposal from [Pauline Krijgsheld](https://www.uu.nl/medewerkers/PKrijgsheld) and myself. Lennart Herlaar and Jacob Seifert have joined us from January to plan, procure, and prepare for the opening of Lili's proto lab to students and staff of the Science Faculty and to great new projects and hardware challenges.
