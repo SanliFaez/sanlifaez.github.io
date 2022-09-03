@@ -2,9 +2,19 @@
 layout: page
 title: Podcast
 ---
-Since 2015, I spend short of two hours each day commuting to work and back (train + bike). Listening to podcasts and audiobook have since become part of my daily routine and my main source for learning about topics outside my field of research. I find podcasts large bandwidth means of scholarly communication. Since 2017, I have started producing some podcasts of my own. I am for always indebted to [Lex Bohlmeijer](https://twitter.com/lexbohlmeijer) for his outstanding [Goede Gespreken(nl)](https://soundcloud.com/de-correspondent) and kindly giving me some crucial advice and encouragement for the start.
+Since 2015, I spend short of two hours each day commuting to work and back. Listening to podcasts and audiobook have since become part of my daily routine and my main source for learning about topics outside my field of research. I find podcasts large bandwidth means of scholarly communication. Since 2017, I have started producing some podcasts of my own. I am for always indebted to [Lex Bohlmeijer](https://twitter.com/lexbohlmeijer) for his outstanding [Goede Gespreken(nl)](https://soundcloud.com/de-correspondent) and kindly giving me some crucial advice and encouragement for the start.
 
 ### Podcasts I have produced
+
+#### The SjoengeJonge
+This is a podcast series that I have produced and hosted together with Marie-José van Tol for [de Jonge Akademie](https://dejongeakademie.nl/) and will be released in the autumn of 2022.
+
+#### The HardwareX podcast
+In the first half of 2022, I hosted 5 episodes for the [HardwareX podcast](https://hardware-x.buzzsprout.com/). I interviewed authors of HardwareX open hardware articles from the past three years to cover the story of their projects as well as the continuation and impact they had after the publication of their article.
+
+#### The Road to Open Science, season 2
+In 2021, Sicco de Knecht and I jointly hosted the second season of the Road to Open Science, which is supported by the Utrecht Open Science Platform and listed on the [UYA soundcloud channel](https://soundcloud.com/utrechtyoungacademy/) .
+
 #### The Universtiy Cooperative Workshop
 I was one of the organizers of the first [University Cooperative workshop](https://openscience-utrecht.com/workshop-the-university-cooperative/) on May 14th 2019, at Utrecht University. In this workshop participants were introduced to the issues, the concepts, and successful examples of governing common resources. They also investigated two cases related to the university and knowledge dissemination. [This podcast](https://soundcloud.com/utrechtyoungacademy/the-university-cooperative-workshop) reports on this workshop.
 
@@ -19,8 +29,6 @@ When the open-science taskforce was formed at the Utrecht University to come up 
 * [R2OS-Ep6, Commons Is the Name](https://soundcloud.com/utrechtyoungacademy/the-road-to-open-science-ep-6-commons-is-the-name)
 
 We also record some short episodes, called news-chats, to spread the word on recent developments around open-science and related policy making.
-
-In 2021, Sicco de Knecht and I jointly hosted the second season of the Road to Open Science, which is supported by the Utrecht Open Science Platform and listed on the [UYA soundcloud channel](https://soundcloud.com/utrechtyoungacademy/) .
 
 #### Voice of the Utrecht Young Academy
 

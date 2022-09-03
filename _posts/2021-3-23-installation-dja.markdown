@@ -5,7 +5,9 @@ categories: [updates]
 tags: [science, society, the young academy]
 ---
 
-As of today, I am officially a member of [the Young Academy](https://www.dejongeakademie.nl/). The Young Academy (de Jonge Akademiy in Dutch or DJA) is a dynamic group of active  scientists and scholars in the Netherlands  with outspoken views about science and scholarship and the related policy. They organises inspiring activities for various target groups focusing on interdisciplinarity, science policy, and the interface between science and society. One of the projects I have been involved in and is supported by DJA is the [Climate Helpdesk](https://www.klimaathelpdesk.org).
+As of today, I am officially a member of [the Young Academy](https://www.dejongeakademie.nl/) of the [Royal Dutch Academy of Science](https://www.knaw.nl) . The Young Academy (de Jonge Akademy in Dutch or in-short DJA) is a dynamic group of active  scientists and scholars in the Netherlands with outspoken views about science and scholarship and the related policy. 
+They organise inspiring activities for various target groups focusing on interdisciplinarity, science policy, and the interface between science and society. Each year, a special committee made up of some members of the Young Academy and the Royal Academy selects ten new members who are installed by the chair of the academy for a period of five years. 
+DJA has been one of the main sponsors of the [Climate Helpdesk](https://www.klimaathelpdesk.org) after its launch, before I knew that I was selected.
 
 Here is how I introduced myself and talked about my concerns and ambitions for the following five years as a member:
 

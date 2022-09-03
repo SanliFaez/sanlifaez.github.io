@@ -1,0 +1,10 @@
+---
+title:  "Joining a taskforce to consolidate the research agenda on climate change"
+date:   2022-03-10 18:15:00
+categories: [updates]
+tags: [climate action, sustainability]
+---
+
+At the request of the Royal Netherlands Academy of Arts and Sciences (KNAW) and the Dutch Research Council (NWO), a taskforce has been set up to realise a joint agenda for integral climate research. I am asked to join the taskforce which is chaired by [Heleen de Coninck](https://www.tue.nl/en/research/researchers/heleen-de-coninck/) (Eindhoven University of Technology/Radboud University Nijmegen) who was a Coordinating Lead Author in the IPCC Special Report on Global Warming of 1.5C. The other members of the taskforce are Han Dolman (Royal Netherlands Institute for Sea Research), Jan Willem Erisman (Leiden University), Liesbeth van de Grift (Utrecht University), Marjolijn Haasnoot (Deltares), Carolien Kroeze (Wageningen University and Research), Andrea Ramirez (TU Delft), Gerard van der Steenhoven (Royal Netherlands Meteorological Institute), Linda Steg (University of Groningen), and Diana Suhardiman (Royal Netherlands Institute of Southeast Asian and Caribbean Studies).
+
+As mentioned [in the announcement](https://www.nwo.nl/en/news/climate-researchers-start-national-initiative-climate-research) The establishment of this taskforce follows a recommendation made by the Permanent Committee on National Institutes (PCNI) and from the insight that different and sometimes widely separated areas of climate-related research will need to cooperate very closely in the future. PCNI’s inventory revealed, amongst other things, that Dutch researchers consider the problems concerning climate change to be of such a level of complexity and urgency that the entirety of Dutch science must join forces as quickly as possible.
