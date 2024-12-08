@@ -3,10 +3,24 @@ layout: page
 title: About me
 ---
 
-I am an assistant professor (tenured) at the [Physics department](https://www.uu.nl/en/organisation/department-of-physics) of Utrecht University. I am also a member of [Utrecht Young Academy](https://www.uu.nl/en/research/utrecht-young-academy), member of KNAW [De Jonge Akademie](https://www.dejongeakademie.nl/) and a fellow at the [Center for Unusual Collaborations](https://www.unusualcollaborations.com/).
+I am an academic technologist.
 
-I studied Physics at the Sharif University of Technology in Iran, and recieved my master's degree in Nanotechnology from University of Twente. My doctorate degree from the Univesity of Amsterdam was based on research on wave propagation in strongly scattering media and Anderson localization. My post-doctoral research at the [Max Planck Institute for the Science of Light ](http://www.mpl.mpg.de/en/sandoghdar/) and [Leiden Institute of Physics](https://www.universiteitleiden.nl/en/science/physics/biological-matter/orrit-lab-folder) was focused on single-molecule optics and (cryogenic) microscopy.
+## Open hardware
 
-Since 2015, I am the principal investigator for the research direction [nanoElectroPhotonics](http://www.nano-epics.com) at the [Nanophotonics section](https://www.uu.nl/en/research/nanophotonics) of the Debye Institute for Nanomaterials at Utrecht University.
+In my research, I use open source for making more accessible and reproducible scientific equipment. Check the [nanoEPics website](https://nanoepics.github.io/) to learn more about my research and the [Lili's ProtoLab](https://www.uu.nl/en/research/lilis-proto-lab) to get started with prototyping. 
 
-Next to my research activities, I [make podcasts](https://sanlifaez.github.io/podcast/), and serve on the board of the [KlimaatHelpdesk](http://www.klimaathelpdesk.org/) foundation.. 
+## Climate Action
+
+My interdisciplinary work is dedicated to climate action from a system's perspective. I am the Open Science Lead at the [Netherlands Climate Research Initiative](https://hetkin.nl/).
+Previously, I have been a founding board member for the [Climate Helpdesk](https://www.klimaathelpdesk.org/).​
+
+## Science Policy
+
+As a board member of the [Young Academy](https://dejongeakademie.nl/default.aspx) of KNAW, I advocate for a more inclusive academic system and better conditions for early career researchers. 
+
+My rebellion is to set a stronger innovation policy for the common good.  
+
+## Academic role
+I am a associate professor (part-time ) at the [Physics department](https://www.uu.nl/en/organisation/department-of-physics) of Utrecht University. I am also a board-member of KNAW [De Jonge Akademie](https://www.dejongeakademie.nl/) and a fellow at the [Center for Unusual Collaborations](https://www.unusualcollaborations.com/).
+
+Next to my research activities, I sometimes [make podcasts](https://sanlifaez.github.io/podcast/). 

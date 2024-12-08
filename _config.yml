@@ -1,14 +1,13 @@
 # Site settings
 title: Sanli Faez
-description: 'Physicist, Utrecht University'
+description: 'Academic Technologist'
 url: 'http://sanlifaez.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
   name: 'Sanli Faez'
-  email: s.faez@uu.nl
-  twitter_username: Sanli
+  email: hi@sanlifaez.info
   github_username:  sanlifaez
   linkedin_username:  sanlifaez
 
